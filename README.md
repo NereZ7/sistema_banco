@@ -1,5 +1,6 @@
 # sistema_banco
 Aprendendo a desenvolver possibilidades.
+Uma ajuda fundamental do Tutor Guilherme da DIO!
 
 menu = """
 
